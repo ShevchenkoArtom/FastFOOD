@@ -1,0 +1,52 @@
+.order {
+    background-color: #312F30;
+    
+}
+.container {
+}
+.order__inner {
+    padding: 164px 0;
+    background-image: url("../img/burger.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+.order__wrap {
+    max-width: 371px;
+    margin: 0 0 0 auto;
+}
+.order__title {
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 52px;
+    margin-bottom: 24px;
+}
+.text__subtitle {
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 13px;
+}
+.price {
+    display: flex;
+    align-items: center;
+    margin-bottom: 11px;
+}
+.price-p {
+    color: #F6762C;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.1em;
+}
+.new__price {
+    margin-right: 6px;
+    font-size: 20px;
+    line-height: 23px;
+}
+.old__price {
+    text-decoration-line: line-through;
+    opacity: 0.5;
+}
+.orange-btn {
+}
+.btn-text {
+}

@@ -1,0 +1,20 @@
+.download {
+    padding: 60px 0;
+    background:#312F30;
+}
+.container {
+}
+.download__inner {
+    display: flex;
+    justify-content: space-between;
+}
+.download__title {
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+}
+.orange-btn {
+    
+}
+.btn-text {
+}
